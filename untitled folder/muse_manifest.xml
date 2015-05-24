@@ -1,0 +1,124 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1432504407052">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="master_a-master.css" crc="4193186688" ref="team:overview:2014-project:index:2015-team:biofuel:our-meetup:project:donors:bioethics:alternatives:2015-project:breakdown:2014-team:total"/>
+    <file name="team.css" crc="4067590424" ref="team"/>
+    <file name="overview.css" crc="4097602383" ref="overview"/>
+    <file name="2014-project.css" crc="4067590424" ref="2014-project"/>
+    <file name="index.css" crc="4229840579" ref="index"/>
+    <file name="2015-team.css" crc="4067590424" ref="2015-team"/>
+    <file name="biofuel.css" crc="3815584092" ref="biofuel"/>
+    <file name="our-meetup.css" crc="4067590424" ref="our-meetup"/>
+    <file name="project.css" crc="4067590424" ref="project"/>
+    <file name="donors.css" crc="518248324" ref="donors"/>
+    <file name="bioethics.css" crc="417920169" ref="bioethics"/>
+    <file name="alternatives.css" crc="446132663" ref="alternatives"/>
+    <file name="2015-project.css" crc="4067590424" ref="2015-project"/>
+    <file name="breakdown.css" crc="41128256" ref="breakdown"/>
+    <file name="2014-team.css" crc="4226018875" ref="2014-team"/>
+    <file name="total.css" crc="36538195" ref="total"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:project:team:donors:2014-team:2015-team:bioethics:our-meetup:overview:alternatives:biofuel:breakdown:2015-project:2014-project:total"/>
+    <file name="museutils.js" crc="521960461" ref="index:project:team:donors:2014-team:2015-team:bioethics:our-meetup:overview:alternatives:biofuel:breakdown:2015-project:2014-project:total"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index:2014-team:overview:biofuel"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index:project:team:donors:2014-team:2015-team:bioethics:our-meetup:overview:alternatives:biofuel:breakdown:2015-project:2014-project:total"/>
+    <file name="webpro.js" crc="220831917" ref="index"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="index"/>
+    <file name="touchswipe.js" crc="325405309" ref="index"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="index:project:team:donors:2014-team:2015-team:bioethics:our-meetup:overview:alternatives:biofuel:breakdown:2015-project:2014-project:total"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:project:team:donors:2014-team:2015-team:bioethics:our-meetup:overview:alternatives:biofuel:breakdown:2015-project:2014-project:total"/>
+    <file name="pie.js" crc="3827607177" ref="donors"/>
+  </folder>
+  <folder name="images">
+    <file name="resized banner.jpg" crc="4111044503" ref="index"/>
+    <file name="dscn2451.jpg" crc="422617691" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="img_0045.jpg" crc="3987119900" ref="index"/>
+    <file name="img_0164_2.jpg" crc="315906153" ref="index"/>
+    <file name="img_0314_2.jpg" crc="4018910874" ref="index"/>
+    <file name="u512-4.png" crc="231740470" ref="index"/>
+    <file name="u501-4.png" crc="4034437892" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="navbar.jpg" crc="351284991" ref="index:project:team:donors:2014-team:2015-team:bioethics:our-meetup:overview:alternatives:biofuel:breakdown:2015-project:2014-project:total"/>
+    <file name="u900-grad.png" crc="4183205538" ref="index"/>
+    <file name="u900-r-grad.png" crc="3929707046" ref="index"/>
+    <file name="u900-m-grad.png" crc="3773739593" ref="index"/>
+    <file name="u903-4.png" crc="4113567637" ref="index:project:team:donors:2014-team:2015-team:bioethics:our-meetup:overview:alternatives:biofuel:breakdown:2015-project:2014-project:total"/>
+    <file name="u895-4.png" crc="3850483437" ref="index:project:team:donors:2014-team:2015-team:bioethics:our-meetup:overview:alternatives:biofuel:breakdown:2015-project:2014-project:total"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
+    <file name="u1092-4.png" crc="445259743" ref="index:project:team:donors:2014-team:2015-team:bioethics:our-meetup:overview:alternatives:biofuel:breakdown:2015-project:2014-project:total"/>
+    <file name="u1105-4.png" crc="229643210" ref="index:project:team:donors:2014-team:2015-team:bioethics:our-meetup:overview:alternatives:biofuel:breakdown:2015-project:2014-project:total"/>
+    <file name="arrowmenuright.gif" crc="36340589" ref="index"/>
+    <file name="u1439-4.png" crc="1285775" ref="index:project:team:donors:2014-team:2015-team:bioethics:our-meetup:overview:alternatives:biofuel:breakdown:2015-project:2014-project:total"/>
+    <file name="u1111-4.png" crc="395843974" ref="index:project:team:donors:2014-team:2015-team:bioethics:our-meetup:overview:alternatives:biofuel:breakdown:2015-project:2014-project:total"/>
+    <file name="u1124-4.png" crc="333963192" ref="index:project:team:donors:2014-team:2015-team:bioethics:our-meetup:overview:alternatives:biofuel:breakdown:2015-project:2014-project:total"/>
+    <file name="u1132-4.png" crc="3779473772" ref="index:project:team:donors:2014-team:2015-team:bioethics:our-meetup:overview:alternatives:biofuel:breakdown:2015-project:2014-project:total"/>
+    <file name="u1138-4.png" crc="247643864" ref="index:project:team:donors:2014-team:2015-team:bioethics:our-meetup:overview:alternatives:biofuel:breakdown:2015-project:2014-project:total"/>
+    <file name="u909-4.png" crc="246103515" ref="index:project:team:donors:2014-team:2015-team:bioethics:our-meetup:overview:alternatives:biofuel:breakdown:2015-project:2014-project:total"/>
+    <file name="u918-4.png" crc="3910064178" ref="index:project:team:donors:2014-team:2015-team:bioethics:our-meetup:overview:alternatives:biofuel:breakdown:2015-project:2014-project:total"/>
+    <file name="u1144-4.png" crc="441743115" ref="index:project:team:donors:2014-team:2015-team:bioethics:our-meetup:overview:alternatives:biofuel:breakdown:2015-project:2014-project:total"/>
+    <file name="u1153-4.png" crc="396378012" ref="index:project:team:donors:2014-team:2015-team:bioethics:our-meetup:overview:alternatives:biofuel:breakdown:2015-project:2014-project:total"/>
+    <file name="u922-4.png" crc="4032858248" ref="index:project:team:donors:2014-team:2015-team:bioethics:our-meetup:overview:alternatives:biofuel:breakdown:2015-project:2014-project:total"/>
+    <file name="u933-4.png" crc="291421118" ref="index:project:team:donors:2014-team:2015-team:bioethics:our-meetup:overview:alternatives:biofuel:breakdown:2015-project:2014-project:total"/>
+    <file name="u1422-6.png" crc="3968282908" ref="index"/>
+    <file name="u1423-6.png" crc="72581004" ref="index"/>
+    <file name="u1426-6.png" crc="3966811570" ref="index"/>
+    <file name="u1081-4.png" crc="4038545235" ref="donors"/>
+    <file name="ucsc_dugdale_1-u1171-fr.jpg" crc="4255024994" ref="2014-team"/>
+    <file name="u1390-4.png" crc="414569930" ref="2014-team"/>
+    <file name="ucsc_fridland_1.jpg" crc="4182347729" ref="2014-team"/>
+    <file name="u1391-4.png" crc="55584611" ref="2014-team"/>
+    <file name="ucsc_genetti_1.jpg" crc="4163787490" ref="2014-team"/>
+    <file name="u1392-4.png" crc="3938336712" ref="2014-team"/>
+    <file name="ucsc_jocic_1.jpg" crc="133461548" ref="2014-team"/>
+    <file name="u1393-4.png" crc="515679376" ref="2014-team"/>
+    <file name="ucsc_lee_1.jpg" crc="219409510" ref="2014-team"/>
+    <file name="u1396-4.png" crc="4151739068" ref="2014-team"/>
+    <file name="ucsc_hernandez_1.jpg" crc="3795417763" ref="2014-team"/>
+    <file name="u1397-4.png" crc="450745047" ref="2014-team"/>
+    <file name="ucsc_pafford_1.jpg" crc="3835687298" ref="2014-team"/>
+    <file name="u1398-4.png" crc="3858680533" ref="2014-team"/>
+    <file name="ucsc_slug_logo.png" crc="34134115" ref="2014-team"/>
+    <file name="u1399-4.png" crc="3886453113" ref="2014-team"/>
+    <file name="ucsc_schenone_1.jpg" crc="4267539109" ref="2014-team"/>
+    <file name="u1400-4.png" crc="155334091" ref="2014-team"/>
+    <file name="ucsc_singh_1.jpg" crc="18494063" ref="2014-team"/>
+    <file name="u1401-4.png" crc="422775828" ref="2014-team"/>
+    <file name="ucsc_sweeney_1.jpg" crc="1814397" ref="2014-team"/>
+    <file name="u1402-4.png" crc="132263001" ref="2014-team"/>
+    <file name="ucsc_walker_1.jpg" crc="312939351" ref="2014-team"/>
+    <file name="u1403-4.png" crc="454917069" ref="2014-team"/>
+    <file name="ucsc_welsh_1.jpg" crc="451383881" ref="2014-team"/>
+    <file name="u1404-4.png" crc="73731134" ref="2014-team"/>
+    <file name="ucsc_perez_1.jpg" crc="3919664373" ref="2014-team"/>
+    <file name="u1407-4.png" crc="3943918625" ref="2014-team"/>
+    <file name="ucsc_ccycle_fossil_fuel.jpg" crc="3967769532" ref="overview"/>
+    <file name="ucsc_ccycle_biofuel.jpg" crc="303174445" ref="overview"/>
+    <file name="u1063-4.png" crc="497113856" ref="alternatives"/>
+    <file name="archael fatty acid biosynthesis.jpg" crc="534062143" ref="biofuel"/>
+    <file name="u1059-4.png" crc="3882921000" ref="biofuel"/>
+    <file name="u1061-4.png" crc="487409900" ref="breakdown"/>
+    <file name="u1445-9.png" crc="40329938" ref="total"/>
+    <file name="u1447-7.png" crc="4246365552" ref="total"/>
+    <file name="u1451-5.png" crc="410787869" ref="total"/>
+    <file name="u1452-5.png" crc="4191856780" ref="total"/>
+    <file name="u1453-4.png" crc="493938762" ref="total"/>
+  </folder>
+  <file name="index.html" crc="182989981" mt="1432503864296" redirect="true"/>
+  <file name="project.html" crc="512006461" mt="1432503864296" redirect="true"/>
+  <file name="team.html" crc="3966219759" mt="1432503864296" redirect="true"/>
+  <file name="donors.html" crc="397923363" mt="1432503864296" redirect="true"/>
+  <file name="2014-team.html" crc="3999904368" mt="1432503864296" redirect="true"/>
+  <file name="2015-team.html" crc="366752825" mt="1432503864296" redirect="true"/>
+  <file name="bioethics.html" crc="4021088506" mt="1432503864296" redirect="true"/>
+  <file name="our-meetup.html" crc="427342229" mt="1432503864296" redirect="true"/>
+  <file name="overview.html" crc="206029246" mt="1432503864296" redirect="true"/>
+  <file name="alternatives.html" crc="4265577853" mt="1432503864296" redirect="true"/>
+  <file name="biofuel.html" crc="130163430" mt="1432503864296" redirect="true"/>
+  <file name="breakdown.html" crc="410713550" mt="1432503864296" redirect="true"/>
+  <file name="2015-project.html" crc="110182897" mt="1432503864296" redirect="true"/>
+  <file name="2014-project.html" crc="329266807" mt="1432503864296" redirect="true"/>
+  <file name="total.html" crc="126274886" mt="1432503864296" redirect="true"/>
+</manifest>

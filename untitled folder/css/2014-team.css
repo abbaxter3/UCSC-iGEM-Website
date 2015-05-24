@@ -1,0 +1,1084 @@
+.version._2014_team /* version checker */
+{
+	color: #0000FB;
+	background-color: #E3EE3B;
+}
+
+.html
+{
+	background-color: #F1EDC2;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1000px;
+	min-height: 521.9499999999998px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #F1EDC2;
+	background-color: #F1EDC2;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -1px;
+}
+
+#page_position_content
+{
+	margin-top: -1px;
+	padding-bottom: 84px;
+	width: 0.01px;
+}
+
+#pu1165
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
+#u1165,#u1165-bw
+{
+	z-index: 2;
+	height: 144px;
+}
+
+#u935
+{
+	z-index: 3;
+	width: 935px;
+	margin-right: -10000px;
+	margin-top: 123px;
+	left: 132px;
+}
+
+#u1010
+{
+	z-index: 5;
+	width: 935px;
+	margin-right: -10000px;
+	margin-top: 133px;
+	left: 132px;
+}
+
+#menuu891
+{
+	z-index: 6;
+	width: 935px;
+	margin-bottom: -9px;
+	margin-right: -10000px;
+	margin-top: -10px;
+	left: -1px;
+}
+
+#u899
+{
+	width: 154px;
+	min-height: 42px;
+	margin-right: -10000px;
+}
+
+#u900
+{
+	width: 152px;
+	padding-bottom: 18px;
+}
+
+#u900:hover
+{
+	width: 152px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u900:active
+{
+	width: 152px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u892
+{
+	width: 154px;
+	min-height: 42px;
+	margin-right: -10000px;
+	left: 156px;
+}
+
+#u893
+{
+	width: 152px;
+	padding-bottom: 18px;
+}
+
+#u900.MuseMenuActive,#u893:hover
+{
+	width: 152px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u893:active
+{
+	width: 152px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u896
+{
+	z-index: 19;
+	width: 14px;
+	height: 14px;
+	margin-right: -10000px;
+	top: 13px;
+	left: 138px;
+}
+
+#u893:hover #u896
+{
+	width: 14px;
+	height: 14px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u893:active #u896
+{
+	width: 14px;
+	height: 14px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u897
+{
+	width: 156px;
+	top: 42px;
+}
+
+#u1090
+{
+	width: 154px;
+	padding-bottom: 6px;
+	margin-right: -10000px;
+}
+
+#u1090:hover
+{
+	width: 154px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1092-4_clip
+{
+	width: 150px;
+	height: 21px;
+}
+
+#u898,#u1089,#u1101
+{
+	width: 156px;
+}
+
+#u1102
+{
+	width: 154px;
+	padding-bottom: 6px;
+	margin-right: -10000px;
+}
+
+#u1090.MuseMenuActive,#u1102:hover
+{
+	width: 154px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1102.MuseMenuActive
+{
+	width: 154px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1105-4_clip
+{
+	width: 135px;
+	height: 21px;
+}
+
+#u1092-4,#u1105-4
+{
+	margin-right: -10000px;
+	top: 3px;
+	left: 2px;
+}
+
+#u1104
+{
+	z-index: 34;
+	width: 14px;
+	height: 14px;
+	margin-right: -10000px;
+	top: 6px;
+	left: 138px;
+}
+
+#u893.MuseMenuActive #u896,#u1102:hover #u1104
+{
+	width: 14px;
+	height: 14px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1106
+{
+	width: 156px;
+	left: 156px;
+}
+
+#u1438
+{
+	width: 152px;
+	padding-bottom: 5px;
+	margin-right: -10000px;
+}
+
+#u1438:hover
+{
+	width: 152px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1439-4
+{
+	margin-right: -10000px;
+	top: 2px;
+	left: 2px;
+}
+
+#u1109
+{
+	width: 152px;
+	padding-bottom: 10px;
+	margin-right: -10000px;
+}
+
+#u1438.MuseMenuActive,#u1109:hover
+{
+	width: 152px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1121
+{
+	width: 152px;
+	padding-bottom: 21px;
+	margin-right: -10000px;
+}
+
+#u1109.MuseMenuActive,#u1121:hover
+{
+	width: 152px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1130
+{
+	width: 152px;
+	padding-bottom: 20px;
+	margin-right: -10000px;
+}
+
+#u1121.MuseMenuActive,#u1130:hover
+{
+	width: 152px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1107,#u1437,#u1108,#u1120,#u1127,#u1134
+{
+	width: 154px;
+}
+
+#u1135
+{
+	width: 152px;
+	padding-bottom: 10px;
+	margin-right: -10000px;
+}
+
+#u1130.MuseMenuActive,#u1135:hover
+{
+	width: 152px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1135.MuseMenuActive
+{
+	width: 152px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1439-4_clip,#u1111-4_clip,#u1124-4_clip,#u1132-4_clip,#u1138-4_clip
+{
+	width: 148px;
+	height: 21px;
+}
+
+#u1111-4,#u1138-4
+{
+	margin-right: -10000px;
+	top: 5px;
+	left: 2px;
+}
+
+#u906
+{
+	width: 154px;
+	min-height: 42px;
+	margin-right: -10000px;
+	left: 312px;
+}
+
+#u907
+{
+	width: 152px;
+	padding-bottom: 18px;
+}
+
+#u893.MuseMenuActive,#u907:hover
+{
+	width: 152px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u907:active
+{
+	width: 152px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u913
+{
+	width: 154px;
+	min-height: 42px;
+	margin-right: -10000px;
+	left: 468px;
+}
+
+#u916
+{
+	width: 152px;
+	padding-bottom: 18px;
+}
+
+#u907.MuseMenuActive,#u916:hover
+{
+	width: 152px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u916:active
+{
+	width: 152px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u895-4_clip,#u918-4_clip
+{
+	width: 138px;
+	height: 22px;
+}
+
+#u919
+{
+	z-index: 79;
+	width: 14px;
+	height: 14px;
+	margin-right: -10000px;
+	top: 13px;
+	left: 138px;
+}
+
+#u1102.MuseMenuActive #u1104,#u916:hover #u919
+{
+	width: 14px;
+	height: 14px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u916:active #u919
+{
+	width: 14px;
+	height: 14px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u916.MuseMenuActive #u919
+{
+	width: 14px;
+	height: 14px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u914
+{
+	width: 155px;
+	top: 42px;
+}
+
+#u1142
+{
+	width: 153px;
+	padding-bottom: 20px;
+	margin-right: -10000px;
+}
+
+#u1142:hover
+{
+	width: 153px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1124-4,#u1132-4,#u1144-4
+{
+	margin-right: -10000px;
+	top: 10px;
+	left: 2px;
+}
+
+#u915,#u1141,#u1151
+{
+	width: 155px;
+}
+
+#u1152
+{
+	width: 153px;
+	padding-bottom: 18px;
+	margin-right: -10000px;
+}
+
+#u1142.MuseMenuActive,#u1152:hover
+{
+	width: 153px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1152.MuseMenuActive
+{
+	width: 153px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1144-4_clip,#u1153-4_clip
+{
+	width: 149px;
+	height: 21px;
+}
+
+#u1153-4
+{
+	margin-right: -10000px;
+	top: 9px;
+	left: 2px;
+}
+
+#u920
+{
+	width: 154px;
+	min-height: 42px;
+	margin-right: -10000px;
+	left: 624px;
+}
+
+#u921
+{
+	width: 152px;
+	padding-bottom: 18px;
+}
+
+#u916.MuseMenuActive,#u921:hover
+{
+	width: 152px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u921:active
+{
+	width: 152px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u921.MuseMenuActive
+{
+	width: 152px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u903-4_clip,#u909-4_clip,#u922-4_clip
+{
+	width: 152px;
+	height: 22px;
+}
+
+#u927
+{
+	width: 155px;
+	min-height: 42px;
+	margin-right: -10000px;
+	left: 780px;
+}
+
+#u930
+{
+	width: 153px;
+	padding-bottom: 18px;
+}
+
+#u930:hover
+{
+	width: 153px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u930:active
+{
+	width: 153px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u930.MuseMenuActive
+{
+	width: 153px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u933-4_clip
+{
+	width: 153px;
+	height: 22px;
+}
+
+#u903-4,#u895-4,#u909-4,#u918-4,#u922-4,#u933-4
+{
+	margin-right: -10000px;
+	top: 9px;
+}
+
+#u1166
+{
+	z-index: 106;
+	width: 932px;
+	background-color: #FFFCDF;
+	padding-bottom: 13px;
+	margin-left: 34px;
+	margin-top: 17px;
+	position: relative;
+}
+
+#u1171
+{
+	z-index: 110;
+	width: 230px;
+	height: 229px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 44px;
+	background: transparent url("../images/ucsc_dugdale_1-u1171-fr.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u1390-4
+{
+	z-index: 128;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 316px;
+}
+
+#pu1305
+{
+	width: 0.01px;
+	margin-left: 115px;
+	margin-top: 11px;
+}
+
+#u1305
+{
+	z-index: 115;
+	width: 156px;
+	height: 245px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/ucsc_fridland_1.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u1391-4
+{
+	z-index: 132;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 236px;
+}
+
+#u1167
+{
+	z-index: 107;
+	width: 932px;
+	background-color: #FFFCDF;
+	padding-bottom: 7px;
+	margin-left: 42px;
+	margin-top: 11px;
+	position: relative;
+}
+
+#u1306
+{
+	z-index: 116;
+	width: 145px;
+	height: 241px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 78px;
+	background: transparent url("../images/ucsc_genetti_1.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u1392-4
+{
+	z-index: 136;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 308px;
+}
+
+#pu1307
+{
+	width: 0.01px;
+	margin-left: 101px;
+	margin-top: 6px;
+}
+
+#u1307
+{
+	z-index: 117;
+	width: 183px;
+	height: 275px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/ucsc_jocic_1.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u1393-4
+{
+	z-index: 140;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 249px;
+}
+
+#u1168
+{
+	z-index: 108;
+	width: 932px;
+	background-color: #FFFCDF;
+	padding-bottom: 12px;
+	margin-left: 47px;
+	margin-top: 18px;
+	position: relative;
+}
+
+#u1308
+{
+	z-index: 118;
+	width: 148px;
+	height: 231px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 71px;
+	background: transparent url("../images/ucsc_lee_1.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u1396-4
+{
+	z-index: 144;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 303px;
+}
+
+#pu1309
+{
+	width: 0.01px;
+	margin-left: 52px;
+	margin-top: 18px;
+}
+
+#u1309
+{
+	z-index: 119;
+	width: 281px;
+	height: 248px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	background: transparent url("../images/ucsc_hernandez_1.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u1397-4
+{
+	z-index: 148;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	left: 298px;
+}
+
+#u1169
+{
+	z-index: 109;
+	width: 932px;
+	background-color: #FFFCDF;
+	padding-bottom: 12px;
+	margin-left: 47px;
+	margin-top: 14px;
+	position: relative;
+}
+
+#u1310
+{
+	z-index: 120;
+	width: 173px;
+	height: 231px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 59px;
+	background: transparent url("../images/ucsc_pafford_1.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u1398-4
+{
+	z-index: 152;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 303px;
+}
+
+#pu1311
+{
+	width: 0.01px;
+	margin-left: 87px;
+	margin-top: 16px;
+}
+
+#u1311
+{
+	z-index: 121;
+	width: 210px;
+	height: 182px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 22px;
+	background: transparent url("../images/ucsc_slug_logo.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u1399-4
+{
+	z-index: 156;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	left: 263px;
+}
+
+#u1301
+{
+	z-index: 111;
+	width: 932px;
+	background-color: #FFFCDF;
+	padding-bottom: 59px;
+	margin-left: 47px;
+	margin-top: 49px;
+	position: relative;
+}
+
+#u1312
+{
+	z-index: 122;
+	width: 147px;
+	height: 136px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 60px;
+	left: 72px;
+	background: transparent url("../images/ucsc_schenone_1.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u1400-4
+{
+	z-index: 160;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 303px;
+}
+
+#pu1313
+{
+	width: 0.01px;
+	margin-left: 60px;
+	margin-top: 24px;
+}
+
+#u1313
+{
+	z-index: 123;
+	width: 265px;
+	height: 179px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 23px;
+	background: transparent url("../images/ucsc_singh_1.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u1401-4
+{
+	z-index: 164;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	left: 290px;
+}
+
+#u1302
+{
+	z-index: 112;
+	width: 932px;
+	background-color: #FFFCDF;
+	padding-bottom: 9px;
+	margin-left: 47px;
+	margin-top: 46px;
+	position: relative;
+}
+
+#u1314
+{
+	z-index: 124;
+	width: 159px;
+	height: 238px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 66px;
+	background: transparent url("../images/ucsc_sweeney_1.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u1402-4
+{
+	z-index: 168;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 18px;
+	left: 303px;
+}
+
+#pu1315
+{
+	width: 0.01px;
+	margin-left: 95px;
+	margin-top: 11px;
+}
+
+#u1315
+{
+	z-index: 125;
+	width: 196px;
+	height: 294px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/ucsc_walker_1.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u1403-4
+{
+	z-index: 172;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 256px;
+}
+
+#u1303
+{
+	z-index: 113;
+	width: 932px;
+	background-color: #FFFCDF;
+	padding-bottom: 26px;
+	margin-left: 47px;
+	margin-top: 20px;
+	position: relative;
+}
+
+#u1317
+{
+	z-index: 126;
+	width: 270px;
+	height: 202px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 27px;
+	left: 10px;
+	background: transparent url("../images/ucsc_welsh_1.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u1404-4
+{
+	z-index: 176;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 303px;
+}
+
+#pu1408
+{
+	width: 0.01px;
+	margin-left: 40px;
+	margin-top: 25px;
+}
+
+#u1408
+{
+	z-index: 184;
+	width: 304px;
+	height: 202px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/ucsc_perez_1.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u1407-4
+{
+	z-index: 180;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	left: 310px;
+}
+
+#u1304
+{
+	z-index: 114;
+	width: 932px;
+	background-color: #FFFCDF;
+	padding-bottom: 11px;
+	margin-left: 34px;
+	margin-top: 134px;
+	position: relative;
+}
+
+#u1318
+{
+	z-index: 127;
+	width: 265px;
+	height: 229px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 13px;
+}
+
+.ie #u1318
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+body
+{
+	position: relative;
+	min-width: 1002px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
